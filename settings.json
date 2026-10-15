@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EnglishRain.aternos.me:55169",
+    "ip": "EnglishRain.aternos.me",
     "port": 55169,
     "version": "",
     "try-creative": false
